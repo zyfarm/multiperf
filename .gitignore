@@ -1,0 +1,6 @@
+data*
+file
+.settings
+*.jar
+.classpath
+.project
